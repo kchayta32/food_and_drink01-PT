@@ -1,0 +1,21 @@
+path: \\?\D:\TA_KITTI\17 - 19 Mar\pyai\code_pyai18_p2\workshop\my_image_food\YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: Singha Beer
+    1: Sangsom
+    2: Sangsom Box
+    3: Beer glass
+    4: Heineken Beer
+    5: Chang Beer
+    6: Beerlao
+    7: French fries
+    8: tomato ketchup
+    9: Table
+    10: Tissue
+    11: Ice bucket
+    12: Plate
+    13: Budweiser Beer
+    14: Corona Extra Beer
